@@ -8,4 +8,4 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 You must have NVidia to run it.
 
-You must export the models from Ultralytics and use exporttoengine.py
+You must export the models from Ultralytics using exporttoengine.py
